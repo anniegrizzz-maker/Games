@@ -1,0 +1,1 @@
+This project includes a set of simple Python games I created while learning Python programming. The games were built using basic concepts such as loops, conditional statements, functions, and user input. I tested the games by showing them to my grandmother, who became the first user and gave feedback on how clear and fun they were.
